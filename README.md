@@ -33,3 +33,8 @@ We define a set of random lists of coefficients. We then generate the signal bas
 
 ## How do the 2 approaches compare?
 The supervised machine learning approach yielded much better results faster, managing to regenerate the signal with just a 0.3% MAE even though it reduced the dimension by 90%.
+
+## Why Svalbard?
+We are storing signals based on seeds. The Svalbard Global Seed Vault is a a long-term seed storage facility, built to stand the test of time and the challenge of natural or man-made disasters. The Seed Vault represents the world’s largest collection of crop diversity.
+
+![](https://cdn.vox-cdn.com/thumbor/BvFY3Rh-bkk3XyCPOP2gEmbQFBo=/0x0:1600x600/1200x800/filters:focal(943x270:1199x526)/cdn.vox-cdn.com/uploads/chorus_image/image/54862611/svalbard_gloabl_seed_vault.0.0.jpg)
