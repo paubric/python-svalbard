@@ -5,7 +5,7 @@ A pseudorandom number generator (PRNG) is an algorithm that uses mathematical fo
 ![](https://github.com/paubric/python-svalbard/blob/master/random.png)
 
 ## What is a linear combination?
-A linear combination is an expression constructed from a set of terms by multiplying each term by a constant and adding the results.
+A linear combination is an expression constructed from a set of terms by multiplying each term by a constant coefficient and adding the results.
 
 ![](https://github.com/paubric/python-svalbard/blob/master/lc.svg)
 
